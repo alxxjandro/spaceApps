@@ -1,0 +1,25 @@
+.contenedorInicio {
+    display: flex; /* Contenedor de elementos en línea */
+    flex-direction: row; /* Alineación horizontal de los elementos */
+    justify-content: space-between; /* Alinea los elementos con espacio entre ellos */
+    padding: 20px; /* Espaciado interno del contenedor */
+  }
+  
+.infoInicio{
+    flex: 1; /* Ocupa el doble de espacio que la imagen */
+    font-size: 16px; /* Tamaño de fuente del texto */
+    margin-left: 20px; /* Espacio a la derecha del texto */
+    padding: 15px; /* Espacio interno dentro del cuadro de texto */
+    border-radius: 8px; /* Esquinas redondeadas del cuadro de texto */
+    background-color: #ffff; /* Color de fondo del cuadro de texto */
+    line-height: 2; /* Altura de línea para mejor legibilidad */
+  }
+
+.imagenInicio {
+    flex: 1; 
+    background-image: url(""); /* Ruta de la imagen de fondo*/
+    background-size: cover;
+    background-position: center; 
+    height: 300px; 
+    border-radius: 8px;  
+  }
