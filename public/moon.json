@@ -1,0 +1,770 @@
+[
+    {
+        "date": "1977-06-02",
+        "type": "shallow_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 7.530032480213623e-08
+    },
+    {
+        "date": "1975-02-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 6.8879271807364245e-09
+    },
+    {
+        "date": "1973-07-31",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 6.713056693211994e-09
+    },
+    {
+        "date": "1974-12-12",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 3.54618336072546e-09
+    },
+    {
+        "date": "1974-05-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 5.9790887813673385e-09
+    },
+    {
+        "date": "1972-11-14",
+        "type": "shallow_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 4.918470929999116e-08
+    },
+    {
+        "date": "1974-12-25",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 1.7838004385067126e-09
+    },
+    {
+        "date": "1972-11-08",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 4.6632143851945116e-09
+    },
+    {
+        "date": "1974-11-11",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 3.033314265114163e-09
+    },
+    {
+        "date": "1972-11-06",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 2.9432223181089143e-09
+    },
+    {
+        "date": "1975-03-26",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 6.2902685328644846e-09
+    },
+    {
+        "date": "1972-09-10",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 5.738200758390055e-09
+    },
+    {
+        "date": "1977-04-17",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 5.4603368836478706e-09
+    },
+    {
+        "date": "1974-12-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 3.9933256313247815e-09
+    },
+    {
+        "date": "1970-07-17",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.1716246368467875e-08
+    },
+    {
+        "date": "1974-05-09",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.9789314076235496e-09
+    },
+    {
+        "date": "1971-10-06",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.3595297403300343e-09
+    },
+    {
+        "date": "1972-02-28",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.3568723957743084e-08
+    },
+    {
+        "date": "1973-03-12",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.684735276969469e-09
+    },
+    {
+        "date": "1970-01-09",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 6.185937055464346e-09
+    },
+    {
+        "date": "1977-04-24",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.9530151601046974e-09
+    },
+    {
+        "date": "1974-03-30",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 9.283460083375267e-09
+    },
+    {
+        "date": "1975-06-17",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 6.854450103062376e-09
+    },
+    {
+        "date": "1971-05-22",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.119690150997415e-09
+    },
+    {
+        "date": "1973-10-03",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.13844306921389e-09
+    },
+    {
+        "date": "1974-07-25",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.209575277603734e-09
+    },
+    {
+        "date": "1972-05-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.6647103386718656e-09
+    },
+    {
+        "date": "1977-04-26",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.0911181015492475e-09
+    },
+    {
+        "date": "1977-04-11",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.251110657903793e-09
+    },
+    {
+        "date": "1970-11-03",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.3795949340919267e-09
+    },
+    {
+        "date": "1977-09-13",
+        "type": "shallow_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.299488234533609e-07
+    },
+    {
+        "date": "1977-07-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.1039262820965916e-09
+    },
+    {
+        "date": "1970-05-25",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.885755254106193e-09
+    },
+    {
+        "date": "1972-05-19",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.4434577002160645e-09
+    },
+    {
+        "date": "1970-06-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.7393615942572613e-09
+    },
+    {
+        "date": "1970-09-09",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.3299722043985856e-09
+    },
+    {
+        "date": "1970-04-03",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 7.265938489983933e-09
+    },
+    {
+        "date": "1971-01-03",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.4785647123821597e-09
+    },
+    {
+        "date": "1971-01-05",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.043052109633159e-09
+    },
+    {
+        "date": "1970-05-23",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 5.663375849461289e-09
+    },
+    {
+        "date": "1973-10-10",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.7422344102878745e-09
+    },
+    {
+        "date": "1970-10-26",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 8.172095468827961e-09
+    },
+    {
+        "date": "1974-06-30",
+        "type": "shallow_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.661636466750076e-08
+    },
+    {
+        "date": "1970-02-18",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 7.177273249891324e-09
+    },
+    {
+        "date": "1972-12-15",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 5.450315297771667e-09
+    },
+    {
+        "date": "1970-05-20",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.5302151496284936e-09
+    },
+    {
+        "date": "1970-07-18",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.863682749013506e-09
+    },
+    {
+        "date": "1970-07-20",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.384353177010511e-08
+    },
+    {
+        "date": "1970-03-14",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.1930857998319294e-09
+    },
+    {
+        "date": "1971-01-17",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.420936957916877e-09
+    },
+    {
+        "date": "1972-01-26",
+        "type": "deep_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 6.551764996538953e-09
+    },
+    {
+        "date": "1973-11-22",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 6.362736587094301e-09
+    },
+    {
+        "date": "1970-07-27",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.28471291789658e-09
+    },
+    {
+        "date": "1973-08-08",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.943085443375781e-09
+    },
+    {
+        "date": "1971-10-26",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.789230066762592e-09
+    },
+    {
+        "date": "1971-06-27",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.1441340943767872e-08
+    },
+    {
+        "date": "1970-03-30",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.5882819027447126e-08
+    },
+    {
+        "date": "1974-03-14",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.219766430754683e-09
+    },
+    {
+        "date": "1970-05-24",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.7618374103508733e-09
+    },
+    {
+        "date": "1975-06-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.997209715261541e-09
+    },
+    {
+        "date": "1971-10-06",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.3595297403300343e-09
+    },
+    {
+        "date": "1972-02-21",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.3919379162259313e-09
+    },
+    {
+        "date": "1971-06-11",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.898343443930939e-09
+    },
+    {
+        "date": "1972-11-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.2174341202299302e-08
+    },
+    {
+        "date": "1970-02-07",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.5506557421968526e-08
+    },
+    {
+        "date": "1972-12-02",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.2315885612214248e-09
+    },
+    {
+        "date": "1972-12-06",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.1681969031472735e-08
+    },
+    {
+        "date": "1971-11-24",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.1881428082528925e-09
+    },
+    {
+        "date": "1975-05-20",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 4.815143886772459e-09
+    },
+    {
+        "date": "1975-04-21",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 7.80327743242891e-09
+    },
+    {
+        "date": "1972-11-14",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 5.2438489816734665e-09
+    },
+    {
+        "date": "1970-11-03",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.3795949340919267e-09
+    },
+    {
+        "date": "1969-12-16",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.51370083720867e-09
+    },
+    {
+        "date": "1975-05-16",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.227700258805661e-09
+    },
+    {
+        "date": "1974-10-02",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.700174681302233e-09
+    },
+    {
+        "date": "1973-04-23",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.5989249095394748e-08
+    },
+    {
+        "date": "1971-04-08",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.621583173049216e-09
+    },
+    {
+        "date": "1971-03-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S12_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 6.772428088013521e-09
+    },
+    {
+        "date": "1974-06-30",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 2.0859397046613706e-09
+    },
+    {
+        "date": "1975-05-20",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.468150026155702e-08
+    },
+    {
+        "date": "1974-06-16",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 5.463059426925043e-09
+    },
+    {
+        "date": "1974-08-04",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.7620363841633773e-09
+    },
+    {
+        "date": "1974-02-06",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 3.16881132871299e-09
+    },
+    {
+        "date": "1974-11-14",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.0829607426697154e-09
+    },
+    {
+        "date": "1973-08-25",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.5975257506444455e-09
+    },
+    {
+        "date": "1973-12-18",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S16_GradeB",
+        "num_cambios": 0,
+        "magnitude_max": 1.894708756109464e-09
+    },
+    {
+        "date": "1974-12-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 2.888952220899236e-09
+    },
+    {
+        "date": "1975-04-12",
+        "type": "shallow_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 7.35855269625278e-08
+    },
+    {
+        "date": "1974-11-17",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 2.1124964230859223e-09
+    },
+    {
+        "date": "1973-10-27",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 2.234469933715863e-09
+    },
+    {
+        "date": "1975-06-22",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 3.5781307974187525e-09
+    },
+    {
+        "date": "1974-10-19",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 4.106226358806195e-09
+    },
+    {
+        "date": "1974-11-21",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 3.4729770536683756e-09
+    },
+    {
+        "date": "1973-08-10",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 1.5575740113980667e-08
+    },
+    {
+        "date": "1974-12-15",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 2.888952220899236e-09
+    },
+    {
+        "date": "1973-04-04",
+        "type": "impact_mq",
+        "seconds": "73500",
+        "group": "S15_GradeA",
+        "num_cambios": 0,
+        "magnitude_max": 4.0889642075514174e-09
+    }
+]
